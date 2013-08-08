@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-08-07 BZR 4276)-stable date = 2013-08-08T18:17:43 CEST
+
+BeginCmp
+TimeStamp = /5203537A;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5203C264;
+Reference = C2;
+ValeurCmp = CSMALL;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5203CA7F;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = con-jack-DCJ0303;
+EndCmp
+
+BeginCmp
+TimeStamp = /52035355;
+Reference = IC1;
+ValeurCmp = ATMEGA88PA-P;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B2157;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B222B;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B2149;
+Reference = P1;
+ValeurCmp = CONN_9;
+IdModule  = ledcube_3x3x3;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B220D;
+Reference = P2;
+ValeurCmp = CONN_9;
+IdModule  = SIL-9;
+EndCmp
+
+BeginCmp
+TimeStamp = /5203B03C;
+Reference = P3;
+ValeurCmp = DIL6;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5203C3C9;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B2180;
+Reference = R1;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B218D;
+Reference = R2;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21E1;
+Reference = R3;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21E0;
+Reference = R4;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21EA;
+Reference = R5;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21E9;
+Reference = R6;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21E7;
+Reference = R7;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21E8;
+Reference = R8;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /519B21ED;
+Reference = R9;
+ValeurCmp = 680;
+IdModule  = R5_pads_2_5_mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5203C1AF;
+Reference = U1;
+ValeurCmp = LP2950;
+IdModule  = TO92PN;
+EndCmp
+
+EndListe
